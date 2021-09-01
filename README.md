@@ -36,9 +36,9 @@ $ php -S localhost:3000
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">[PHP](https://expo.io/) 
+- [PHP](https://expo.io/) 
 - [Bootstrap](https://getbootstrap.com/)
-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+-
 #### License
 /weblate/l/:project/:component?server=https%3A%2F%2Fhosted.weblate.org
 
