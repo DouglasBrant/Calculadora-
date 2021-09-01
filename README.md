@@ -1,4 +1,4 @@
-# Calculadora-
+# Calculadora
 ## Calculadora feita em PHP e bootstrap
 
 Tabela de conteúdos
