@@ -38,7 +38,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [PHP](https://expo.io/) 
 - [Bootstrap](https://getbootstrap.com/)
--
+
 #### License
 /weblate/l/:project/:component?server=https%3A%2F%2Fhosted.weblate.org
 
