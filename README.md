@@ -36,7 +36,7 @@ $ php -S localhost:3000
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [PHP](https://expo.io/) <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">[PHP](https://expo.io/) <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 - [Bootstrap](https://getbootstrap.com/)https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 - 
 #### License
