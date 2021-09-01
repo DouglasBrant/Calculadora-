@@ -32,7 +32,7 @@ $ php -S localhost:3000
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-### 🛠 Tecnologias
+### 🛠 tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
