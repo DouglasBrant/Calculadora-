@@ -1,5 +1,5 @@
 # Calculadora
-## Calculadora feita em PHP e bootstrap
+## Calculadora feita em PHP e Bootstrap
 
 Tabela de conteúdos
 =================
